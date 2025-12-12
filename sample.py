@@ -3,7 +3,7 @@ import time
 
 # required files
 platform_file = "DP168_bd_wrapper_2.xsa"
-bitstream_file = platform_file.split(".")[0] + ".bit"
+bitstream_file = "DP168_bd_wrapper.bit"
 elf_file = "MPapp_component2.elf"
 
 # start session
